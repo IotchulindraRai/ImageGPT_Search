@@ -4,7 +4,7 @@ It's is a web Application  to search images of anythings using Javascript and un
 learn how to styling the app with tailwind, and also create beautiful skeleton loading page.
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run by:
 
 ### `yarn install`
 
